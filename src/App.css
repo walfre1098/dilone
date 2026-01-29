@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.titulo {
+  font-size: 25px;
+  background-color:rgba(255, 255, 255, 0.99);
+  color-scheme: rgba(2, 2, 2, 0.189);
+}
+
+img {
+  border: 2px;
+  width: 600px;
+  height: 600px;
+^}
